@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847506625835",
+    "project_id": "stampcollections-5530a",
+    "storage_bucket": "stampcollections-5530a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847506625835:android:32fa1ecd7a1b8e2b18e16e",
+        "android_client_info": {
+          "package_name": "com.example.stampcollectionsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJHyqdFyL4OvWje-ZCiNr8n9jXahmwTrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
